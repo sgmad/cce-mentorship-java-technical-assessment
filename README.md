@@ -12,4 +12,4 @@ The work here is primarily for learning and reference.
 
 This was never submitted in the end so it was never verified for accuracy.
 
-The assessment was to find potential skills clinic mentors within the student body, and above technical ability is interest in the role, which I did not have much of.
+The assessment was to find potential skills clinic mentors within the student body, and greater than technical ability is interest in the role.

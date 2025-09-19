@@ -2,6 +2,8 @@
 
 This repository contains my answers and solutions for a Java technical mentorship assessment for our university / college's skills clinic.  
 
+The assessment was to find potential skills clinic mentors within the student body, and greater than technical ability is interest in the role.
+
 ## Contents
 - Implementations of array and loop exercises  
 - Sample problem-solving with Java  
@@ -11,5 +13,3 @@ This repository contains my answers and solutions for a Java technical mentorshi
 The work here is primarily for learning and reference.
 
 This was never submitted in the end so it was never verified for accuracy.
-
-The assessment was to find potential skills clinic mentors within the student body, and greater than technical ability is interest in the role.

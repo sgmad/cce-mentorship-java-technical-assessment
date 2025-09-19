@@ -7,7 +7,7 @@ public class integerToString {
         int n = scanner.nextInt();
 
         try {
-            String s = Integer.toString(n);
+            String s = Integer.toString(n); // This was the only missing part of the program that we were told to fill in. This method converts an integer to a string.
             System.out.println("Good job");
             
         } catch (Exception e) {
